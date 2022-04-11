@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+
+.titulo{
+    background-color: blueviolet;
+}
+
+.parrafo{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
